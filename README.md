@@ -1,1 +1,2 @@
 # Mixture-Distribution-Fitting
+Our research project focused on fitting mixture distributions to a motor insurance claims dataset, employing the EM algorithm to ascertain the proportions and parameters of the underlying distributions. Through a thorough comparison, we identified and selected the most suitable model. This work enhances our understanding of statistical modeling in the context of motor insurance claims, offering insights into optimizing distribution selection for improved accuracy.
